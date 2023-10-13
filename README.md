@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Olga Polishchuk</h1>
 <h3 align="center">Full-stack developer from Ukraine</h3>
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dj5smkin6/image/upload/v1696940219/IT_logo_csdmra.jpg">
+<img align="right" alt="Coding" width="200" src="https://res.cloudinary.com/dj5smkin6/image/upload/v1696940219/IT_logo_csdmra.jpg">
 
 - 📫 How to reach me **olgapolichuk@ukr.net**
 
